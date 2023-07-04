@@ -2,11 +2,11 @@
 ## bearer-auth
 Author: Sham Al-Jalam
 
-* deployed application : [https://basic-auth-d6qn.onrender.com/](https://basic-auth-d6qn.onrender.com/)
+* deployed application : [https://bearer-auth-tbex.onrender.com/](https://bearer-auth-tbex.onrender.com/)
 
-* Github actions: [https://github.com/ShamAhmad2022/basic-auth/actions](https://github.com/ShamAhmad2022/basic-auth/actions)
+* Github actions: [https://github.com/ShamAhmad2022/bearer-auth/actions](https://github.com/ShamAhmad2022/bearer-auth/actions)
 
-*  pull request: [https://github.com/ShamAhmad2022/basic-auth/pull/1](https://github.com/ShamAhmad2022/basic-auth/pull/1)
+*  pull request: [https://github.com/ShamAhmad2022/bearer-auth/pull/1](https://github.com/ShamAhmad2022/bearer-auth/pull/1)
 
 ### Setup:
 .env requirements:
